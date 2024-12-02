@@ -1,0 +1,95 @@
+{
+  "carousel": {
+    "previous": "Diapositive précédente",
+    "next": "Diapositive suivante",
+    "pause": "Mettre en pause le diaporama",
+    "play": "Lancer le diaporama",
+    "goToSlide": "Aller à la diapositive {number}"
+  },
+  "hotel": {
+    "name": "Le Grand Hôtel",
+    "tagline": "Découvrez le luxe au cœur de Paris",
+    "subtitle": "Où l'élégance intemporelle rencontre le confort moderne",
+    "facade": "Bienvenue au Grand Hôtel",
+    "suite": "Suites Élégantes",
+    "restaurant": "Gastronomie Raffinée",
+    "spa": "Détente & Bien-être",
+    "pool": "Piscine & Relaxation",
+    "services": "Nos Services"
+  },
+  "nav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "restaurant": "Restaurant",
+    "meetingRooms": "Salles de Réunion",
+    "events": "Évènements",
+    "weddings": "Mariages",
+    "meetings": "Réunions et Séminaires",
+    "workshops": "Ateliers",
+    "cocktails": "Cocktails",
+    "contact": "Contact",
+    "bookNow": "Réserver"
+  },
+  "home": {
+    "welcome": "Bienvenue",
+    "welcomeText": "Découvrez un havre de paix au cœur de la ville",
+    "rooms": "Hébergement",
+    "events": "Évènements à venir",
+    "restaurant": "Notre Restaurant",
+    "meetingRooms": "Salles de Réunion",
+    "pool": "Piscine",
+    "services": "Nos Services",
+    "partners": "Nos Partenaires"
+  },
+  "rooms": {
+    "title": "Nos Chambres",
+    "perNight": "/nuit",
+    "amenities": "Équipements",
+    "bookNow": "Réserver maintenant",
+    "availability": "Vérifier la disponibilité",
+    "deluxeSuite": "Suite Deluxe",
+    "presidentialSuite": "Suite Présidentielle",
+    "royalSuite": "Suite Royale",
+    "guestCount": "{count} Personne | {count} Personnes"
+  },
+  "booking": {
+    "title": "Réservation",
+    "checkIn": "Arrivée",
+    "checkOut": "Départ",
+    "guests": "Voyageurs",
+    "roomType": "Type de chambre",
+    "confirm": "Confirmer la réservation",
+    "success": "Réservation confirmée",
+    "error": "Erreur de réservation"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer"
+    },
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email"
+  },
+  "services": {
+    "wifi": "Wi-Fi Gratuit",
+    "parking": "Parking Sécurisé",
+    "roomService": "Service en Chambre 24/7",
+    "concierge": "Conciergerie",
+    "spa": "Spa & Bien-être",
+    "gym": "Salle de Sport"
+  },
+  "footer": {
+    "description": "Une expérience unique de luxe et de confort",
+    "contact": "Contact",
+    "quickLinks": "Liens rapides",
+    "followUs": "Suivez-nous",
+    "newsletter": "Newsletter",
+    "subscribe": "S'abonner",
+    "rights": "Tous droits réservés"
+  }
+}

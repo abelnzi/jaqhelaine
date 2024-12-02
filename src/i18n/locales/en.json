@@ -1,0 +1,84 @@
+{
+  "hotel": {
+    "name": "Le Grand Hotel",
+    "tagline": "Experience Luxury in the Heart of Paris",
+    "subtitle": "Where timeless elegance meets modern comfort",
+    "facade": "Welcome to Le Grand Hotel",
+    "suite": "Elegant Suites",
+    "restaurant": "Fine Dining",
+    "spa": "Relaxation & Wellness",
+    "pool": "Pool & Relaxation",
+    "services": "Our Services"
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "restaurant": "Restaurant",
+    "meetingRooms": "Meeting Rooms",
+    "events": "Events",
+    "weddings": "Weddings",
+    "meetings": "Meetings & Seminars",
+    "workshops": "Workshops",
+    "cocktails": "Cocktails",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "welcomeText": "Discover a haven of peace in the heart of the city",
+    "rooms": "Accommodation",
+    "events": "Upcoming Events",
+    "restaurant": "Our Restaurant",
+    "meetingRooms": "Meeting Rooms",
+    "pool": "Swimming Pool",
+    "services": "Our Services",
+    "partners": "Our Partners"
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "perNight": "/night",
+    "amenities": "Amenities",
+    "bookNow": "Book Now",
+    "availability": "Check Availability"
+  },
+  "booking": {
+    "title": "Booking",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "roomType": "Room Type",
+    "confirm": "Confirm Booking",
+    "success": "Booking Confirmed",
+    "error": "Booking Error"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send"
+    },
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "services": {
+    "wifi": "Free Wi-Fi",
+    "parking": "Secure Parking",
+    "roomService": "24/7 Room Service",
+    "concierge": "Concierge",
+    "spa": "Spa & Wellness",
+    "gym": "Fitness Center"
+  },
+  "footer": {
+    "description": "A unique experience of luxury and comfort",
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved"
+  }
+}
